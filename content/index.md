@@ -6,4 +6,6 @@ title: Welcome to Quartz
 
 <Test>
 
+![[pdf/test.pdf]]
 
+#playground
