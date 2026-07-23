@@ -4,7 +4,7 @@ title: Welcome to Quartz
 
 # Hiiiii <3
 
-> [!quote] quote/cite
+> [!quote]
 > Give a fish to a man once and he will eat one day, 
 > teach him to fish and he will eat all his life
 > \- Someone
