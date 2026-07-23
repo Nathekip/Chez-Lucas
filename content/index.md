@@ -7,20 +7,15 @@ title: Welcome to Quartz
 <Test>
 
 ## Test 1
-![[pdf/test.pdf]]
+<div class="pdf-embed" data-src="./pdf/test.pdf"></div>
 
 ## Test 2
-<iframe
-  src="pdf/test.pdf"
-  width="100%"
-  height="800">
-</iframe>
+<link rel="stylesheet" href="/static/pdf-embed.css">
+<div class="pdf-embed" data-src="./pdf/test.pdf"></div>
+<script type="module" src="/static/pdf-embed.mjs"></script>
 
 ## Test 3
-<embed
-  src="pdf/test.pdf"
-  type="application/pdf"
-  width="100%"
-  height="800">
+![[pdf/test.pdf]]
+
   
 #playground

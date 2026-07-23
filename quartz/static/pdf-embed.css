@@ -1,0 +1,16 @@
+.pdf-embed {
+  display: block;
+  margin: 1.5rem 0;
+  background: transparent;
+}
+.pdf-embed canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+.pdf-embed canvas + canvas {
+  margin-top: 4px;
+}
