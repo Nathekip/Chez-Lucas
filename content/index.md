@@ -1,22 +1,15 @@
 ---
-title: Welcome to Quartz
+title: Quartz for webtoon DEMO
 ---
 
-# Hiiiii <3
-
-> [!quote]
-> Give a fish to a man once and he will eat one day, 
-> teach him to fish and he will eat all his life
+# Quartz for webtoon
+> ![quote] Citation
+> Give a man a fish once and he will eat for a day, teach him to fish and he will eat all his life
 > \- Someone
 
+# All the webtoons
+## Some webtoon
+- [Chapter 1](some_webtoon/some_webtoon_1.md)
+- [Chapter 2](some_webtoon/some_webtoon_2.md)
 
-## Canva pdf
-<link rel="stylesheet" href="./static/pdf-embed.css">
-<div class="pdf-embed" data-src="pdf/test.pdf"></div>
-<script type="module" src="./static/pdf-embed.mjs"></script>
 
-## Markdown pdf
-![[pdf/test.pdf]]
-
-  
-#playground
