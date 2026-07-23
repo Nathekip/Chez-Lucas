@@ -1,8 +1,8 @@
 ---
-title: Quartz for webtoon DEMO
+title: Home
 ---
 
-# Quartz for webtoon
+# Quartz for webtoon DEMO
 > ![quote] Citation
 > Give a man a fish once and he will eat for a day, teach him to fish and he will eat all his life
 > \- Someone
