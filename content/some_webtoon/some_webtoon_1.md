@@ -1,5 +1,5 @@
 # Some webtoon #1
-_Some Webtoon_ is an example of webtoon that will help display how Quartz can become an esay support for webtoon
+_Some Webtoon_ is an example of webtoon that will help display how Quartz can become an easy support for webtoon
 
 ## Canva pdf
 <link rel="stylesheet" href="../static/pdf-embed.css">
