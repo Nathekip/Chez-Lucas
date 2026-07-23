@@ -7,11 +7,11 @@ title: Welcome to Quartz
 <Test>
 
 ## Test 1
-<div class="pdf-embed" data-src="./pdf/test.pdf"></div>
+<div class="pdf-embed" data-src="pdf/test.pdf"></div>
 
 ## Test 2
 <link rel="stylesheet" href="/static/pdf-embed.css">
-<div class="pdf-embed" data-src="./pdf/test.pdf"></div>
+<div class="pdf-embed" data-src="pdf/test.pdf">test</div>
 <script type="module" src="/static/pdf-embed.mjs"></script>
 
 ## Test 3

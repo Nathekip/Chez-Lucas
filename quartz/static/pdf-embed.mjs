@@ -1,13 +1,13 @@
 import * as pdfjsLib from "./pdfjs/pdf.min.mjs"
 
-pdfjsLib.GlobalWorkerOptions.workerSrc = new URL("./pdfjs/pdf.worker.min.mjs", import.meta.url)
+pdfjsLib.GlobalWorkerOptions.workerSrc = new URL("./pdfjs/pdf.worker.min.mjs", import.meta.url).href
 
 async function renderPdf(container) {
   const url = container.dataset.src
   if (!url || container.dataset.rendered) return
   container.dataset.rendered = "true"
 
-  const pdf = await pdfjsLib.getDocument(url).promise
+  const pdf = await pdfjsLib.getDocument({ url }).promise   // ← object form, not a bare string
   const scale = window.devicePixelRatio > 1 ? 1.5 * window.devicePixelRatio : 1.5
 
   for (let i = 1; i <= pdf.numPages; i++) {
