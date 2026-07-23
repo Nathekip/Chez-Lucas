@@ -6,19 +6,19 @@ title: Welcome to Quartz
 
 
 ## Test pdf/test.pdf
-<link rel="stylesheet" href="/static/pdf-embed.css">
+<link rel="stylesheet" href="./static/pdf-embed.css">
 <div class="pdf-embed" data-src="pdf/test.pdf"></div>
-<script type="module" src="/static/pdf-embed.mjs"></script>
+<script type="module" src="./static/pdf-embed.mjs"></script>
 
 ## Test /pdf/test.pdf
-<link rel="stylesheet" href="/static/pdf-embed.css">
-<div class="pdf-embed" data-src="/pdf/test.pdf"></div>
-<script type="module" src="/static/pdf-embed.mjs"></script>
+<link rel="stylesheet" href="./static/pdf-embed.css">
+<div class="pdf-embed" data-src="./pdf/test.pdf"></div>
+<script type="module" src="./static/pdf-embed.mjs"></script>
 
 ## Test ./pdf/test.pdf
-<link rel="stylesheet" href="/static/pdf-embed.css">
+<link rel="stylesheet" href="./static/pdf-embed.css">
 <div class="pdf-embed" data-src="./pdf/test.pdf"></div>
-<script type="module" src="/static/pdf-embed.mjs"></script>
+<script type="module" src="./static/pdf-embed.mjs"></script>
 
 ## Test 2
 ![[pdf/test.pdf]]
