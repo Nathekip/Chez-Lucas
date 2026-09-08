@@ -1,14 +1,17 @@
 ---
-title: Home
+title: Accueil
 ---
 
-# 🦆 Quartz for webtoon DEMO
-> This project aims to showcase what a simple webtoon display website could look like using only Quartz, markdowns and pdf
+# 🐦‍⬛ Chez Lucas
+> Retrouvez tous les webtoons du célèbre bédéiste en accès libre !
 
-# 📚 All the webtoons
-## 🍽️ Some webtoon
-- [Chapter 1](some_webtoon/some_webtoon_1.md)
-- [Chapter 2](some_webtoon/some_webtoon_2.md)
-## 🧩 Some other webtoon
-*Coming soon... 👀*
-
+# 📚 Tous les webtoons
+## 🎄 Les aventures de noël
+- [Chapter 1](Les%20aventures%20de%20Noël/chapitre-1.md)
+- [Chapter 2](Les%20aventures%20de%20Noël/chapitre-2.md)
+- [Chapter 3](Les%20aventures%20de%20Noël/chapitre-3.md)
+- [Chapter 4](Les%20aventures%20de%20Noël/chapitre-4.md)
+- [Chapter 5](Les%20aventures%20de%20Noël/chapitre-5.md)
+- [Chapter 6](Les%20aventures%20de%20Noël/chapitre-6.md)
+## 🐴 Les aventures d'Ulysse
+À paraître...
