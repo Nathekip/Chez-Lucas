@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: nathekip.github.io/Ossement
+  baseUrl: nathekip.github.io/Chez-Lucas
   ignorePatterns:
     - private
     - templates
