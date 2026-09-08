@@ -3,7 +3,7 @@ title: Chez Lucas - Accueil
 ---
 
 # 🐦‍⬛ Chez Lucas
-> Retrouvez tous les webtoons du célèbre bédéiste en accès libre !
+Retrouvez tous les webtoons du célèbre bédéiste en accès libre !
 
 ## 🎄 Les aventures de noël
 - [Chapitre 1](Les%20aventures%20de%20Noël/chapitre-1.md)
