@@ -1,3 +1,7 @@
+---
+title: Chez Lucas - Les aventures de noël #1
+---
+
 # Les aventures de noël #1
 Le père noël a disparu ! Son plus fidèle lutin mène l'enquête...
 

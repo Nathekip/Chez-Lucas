@@ -126,7 +126,7 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
   - source: github:quartz-community/syntax-highlighting
-    enabled: true
+    enabled: false
     options:
       theme:
         light: github-light
