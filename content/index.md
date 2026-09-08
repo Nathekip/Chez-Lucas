@@ -5,7 +5,7 @@ title: Accueil
 # 🐦‍⬛ Chez Lucas
 > Retrouvez tous les webtoons du célèbre bédéiste en accès libre !
 
-# 📚 Tous les webtoons
+# 📚 Toutes les séries
 ## 🎄 Les aventures de noël
 - [Chapter 1](Les%20aventures%20de%20Noël/chapitre-1.md)
 - [Chapter 2](Les%20aventures%20de%20Noël/chapitre-2.md)
@@ -15,3 +15,5 @@ title: Accueil
 - [Chapter 6](Les%20aventures%20de%20Noël/chapitre-6.md)
 ## 🐴 Les aventures d'Ulysse
 À paraître...
+# 📓 Les Oneshot
+- [👹 Un démon au lycée](oneshot/un-demon-au-lycee.md)
