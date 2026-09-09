@@ -17,3 +17,6 @@ Retrouvez tous les webtoons du célèbre bédéiste en accès libre !
 À paraître...
 ## 📓 Les Oneshot
 - [👹 Un démon au lycée](Les%20oneshot/un-demon-au-lycee.md)
+
+---
+[🧮 Documentation](doc.md)
